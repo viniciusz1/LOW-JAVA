@@ -1,17 +1,21 @@
-import java.util.HashMap;
-import java.util.Map;
+import java.util.ArrayList;
+import java.util.List;
 
 public class Conversa {
     int idConversa;
-    Solicitante solicitante;
-    Analista analista;
-    Demanda demanda;
-    Map mensagens;
+    List mensagemConversa;
+    Demanda demandaConversa;
 
-    private void enviarMensagem(){
+    private void iniciarConversa(){
 
     }
-    private void adicionarAnexos(){
+    private void finalizarConversa(){
+
+    }
+    private void silenciarConversa(){
+
+    }
+    private void mostrarConversa(){
 
     }
 }

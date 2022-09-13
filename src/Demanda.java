@@ -1,5 +1,5 @@
 public class Demanda {
-    int idDemanda;
+    int idDemanda, idSolicitante, idAnalista, idGerenteDeNegocio;
     String tituloDemanda, statusDemanda, situacaoAtualDemanda, objetivoDemanda;
     String centroDeCustoDemanda, memoriaRealDemanda, memoriaPotencialDemanda, frequenciaDeUsoDemanda;
     double  beneficioRealDemanda, beneficioPotencialDemanda, beneficioQualitativoDemanda;
