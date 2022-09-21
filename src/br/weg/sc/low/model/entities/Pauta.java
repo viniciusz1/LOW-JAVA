@@ -1,3 +1,5 @@
+package br.weg.sc.low.model.entities;
+
 import java.util.Date;
 import java.util.List;
 

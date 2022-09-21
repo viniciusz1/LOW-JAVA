@@ -1,3 +1,5 @@
+package br.weg.sc.low.model.entities;
+
 public class Recurso {
 
     int idRecurso, quantidadeHorasRecurso;

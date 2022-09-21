@@ -1,8 +1,7 @@
-public class GestorDeTI extends Solicitante{
-    private void marcarReuniaoComissao(){
+package br.weg.sc.low.model.entities;
 
-    }
-    private void avaliarDemanda(){
+public class Analista extends Solicitante{
+    private void marcarReuniaoComissao(){
 
     }
     private void criarPauta(){
@@ -23,4 +22,5 @@ public class GestorDeTI extends Solicitante{
     private void informarParecerDG(){
 
     }
+
 }

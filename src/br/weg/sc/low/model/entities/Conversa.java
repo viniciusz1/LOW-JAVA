@@ -1,4 +1,5 @@
-import java.util.ArrayList;
+package br.weg.sc.low.model.entities;
+
 import java.util.List;
 
 public class Conversa {

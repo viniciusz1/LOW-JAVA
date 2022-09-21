@@ -1,3 +1,5 @@
+package br.weg.sc.low.model.entities;
+
 public class Demanda {
     int idDemanda, idSolicitante, idAnalista, idGerenteDeNegocio;
     String tituloDemanda, statusDemanda, situacaoAtualDemanda, objetivoDemanda;
